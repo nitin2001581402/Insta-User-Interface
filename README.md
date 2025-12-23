@@ -8,7 +8,7 @@ Users can view stories, tap right to move forward, tap left to go back, and see 
 
 | **Insta UI** |
 
-<img width="1916" height="304" alt="Screenshot 2025-12-23 225201" src="https://github.com/user-attachments/assets/dcb563a2-3330-4847-8c92-7e356ad94566" />
+<img width="1901" height="516" alt="Screenshot 2025-12-23 190251" src="https://github.com/user-attachments/assets/f11094e8-7eb2-4f96-83ed-2a4d22a93a23" />
 
 
 ## Features
