@@ -1,4 +1,4 @@
-# Insta-UI
+# Insta User Interface
 
 This Insta-UI project replicates the core Instagram Stories feature as part of a modern social web app, built with Next.js and TypeScript.
 
@@ -44,5 +44,5 @@ Ensure you have the following tools installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/nitin2001581402/Insta-UI.git
+git clone https://github.com/nitin2001581402/Insta-User-Interface.git
 cd instagram-stories
